@@ -1,0 +1,15 @@
+# Ignore Python virtual environment
+venv/
+
+# Ignore SQLite database
+db.sqlite3
+
+# Ignore files in a directory named "tmp"
+tmp/
+
+# Ignore compiled Python files
+*.pyc
+
+# Ignore IDE-specific files
+.vscode/
+.idea/
